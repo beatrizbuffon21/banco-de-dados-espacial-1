@@ -60,5 +60,17 @@ SELECT
 FROM 
 	quadra;
 
+-- funcao calculo da área em cm --------------------------------------------------
+SELECT 
+	cod, st_area(geom) 
+FROM 
+	lotes;
+
+SELECT 
+	cod, st_area(geom) 
+FROM 
+	quadra;
+
+
 
 
