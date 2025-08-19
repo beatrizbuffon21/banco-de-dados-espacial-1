@@ -1,0 +1,9 @@
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (1,1,1);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (2,1,2);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (3,1,3);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (4,2,1);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (5,2,2);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (6,2,3);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (7,3,1);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (8,3,2);
+insert into veg_estac (id_veg_estac,cod_tipo,cod_estac) values (9,3,3);

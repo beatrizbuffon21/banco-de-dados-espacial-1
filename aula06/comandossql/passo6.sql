@@ -1,0 +1,11 @@
+create table predio(cod_pred character varying(15) PRIMARY KEY, 
+			num_sala_aula integer,
+			num_sala_adm integer,
+			num_lab integer,
+			num_sala_prof integer,
+			num_banheiro_f integer,
+			num_banheiro_m integer,
+			num_andares integer,
+			cod_col	character varying(10),		   			  
+			geom geometry(point,4326),
+			FOREIGN KEY (cod_col) REFERENCES colegio (cod_col));
