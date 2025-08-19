@@ -99,8 +99,6 @@ Adicione suas notas no arquivo `aulas/aula-02.md` e envie um pull request (se fo
 * [Linkedin](https://www.linkedin.com/in/beatriz-woos-buffon-102ab5191/)
 * [Pórtfólio](https://beatrizbuffon21.github.io/)
 
-Aqui está a parte adicionada ao final do seu README:
-
 ---
 ### Contribuições
 Este repositório é um **fork** de um repositório de um colega. Agradeço a contribuição dele para o material disponibilizado.
