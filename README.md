@@ -49,22 +49,20 @@ Repositório com materiais, anotações e exercícios da disciplina **Banco de D
 
 | Data       | Nº Aulas | Tipo de atividade | Descrição                                                                                                                           |
 | ---------- | -------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 14/03/2025 | 4        | Teórico-Prática   | Programa, cronograma e revisão de banco de dados. Instruções para instalação do PostgreSQL. Backup e restauração do banco de dados. |
-| 28/03/2025 | 4        | Teórico-Prática   | Revisão de SQL. Instruções para instalação do PostGIS.                                                                              |
-| 04/04/2025 | 4        | Teórico-Prática   | OMT-G. Criação de banco de dados espacial.                                                                                          |
-| 11/04/2025 | 4        | Teórico-Prática   | Criação de banco de dados espacial.                                                                                                 |
-| 25/04/2025 | 4        | Teórico-Prática   | Criação de banco de dados espacial.                                                                                                 |
-| 09/05/2025 | 4        | Teórico-Prática   | OMT-G. Criação de banco de dados espacial.                                                                                          |
-| 16/05/2025 | 4        | Teórico-Prática   | Criação de banco de dados espacial.                                                                                                 |
-| 23/05/2025 | 4        | Teórico-Prática   | OMT-G. Importação de shapefiles.                                                                                                    |
-| 30/05/2025 | 4        | Teórico-Prática   | Manipulação de dados espaciais.                                                                                                     |
-| 06/06/2025 | 4        | Avaliação         | Avaliação I.                                                                                                                        |
-| 13/06/2025 | 4        | Teórico-Prática   | Manipulação de dados espaciais.                                                                                                     |
-| 27/06/2025 | 4        | Teórico-Prática   | Manipulação de dados espaciais.                                                                                                     |
-| 04/07/2025 | 4        | Teórico-Prática   | Integração de banco de dados espacial com sistema de informação geográfica.                                                         |
-| 08/07/2025 | 4        | Teórico-Prática   | Integração de banco de dados espacial com sistema de informação geográfica.                                                         |
-| 09/07/2025 | 4        | Avaliação         | Avaliação II.                                                                                                                       |
-| 11/07/2025 | 4        | Exame             | Exame.                                                                                                                              |
+| 14/03/2025 | aula01        | Teórico-Prática   | Programa, cronograma e revisão de banco de dados. Instruções para instalação do PostgreSQL. Backup e restauração do banco de dados. |
+| 28/03/2025 | aula02        | Teórico-Prática   | Revisão de SQL. Instruções para instalação do PostGIS.                                                                              |
+| 04/04/2025 | aula03        | Teórico-Prática   | OMT-G. Criação de banco de dados espacial.                                                                                          |
+| 11/04/2025 | aula04       | Teórico-Prática   | Criação de banco de dados espacial.                                                                                                 |
+| 25/04/2025 | aula05        | Teórico-Prática   | Criação de banco de dados espacial.                                                                                                 |
+| 09/05/2025 | aula06        | Teórico-Prática   | OMT-G. Criação de banco de dados espacial.                                                                                          |
+| 16/05/2025 | aula07        | Teórico-Prática   | Criação de banco de dados espacial.                                                                                                 |
+| 23/05/2025 | aula08       | Teórico-Prática   | OMT-G. Importação de shapefiles.                                                                                                    |
+| 30/05/2025 | aula09        | Teórico-Prática   | Manipulação de dados espaciais.                                                                                                     |
+| 06/06/2025 | aula10        | Avaliação         | Avaliação I.                                                                                                                        |
+| 13/06/2025 | aula11        | Teórico-Prática   | Manipulação de dados espaciais.                                                                                                     |
+| 27/06/2025 | aula12        | Teórico-Prática   | Manipulação de dados espaciais.                                                                                                     |
+| 04/07/2025 | aula13        | Teórico-Prática   | Integração de banco de dados espacial com sistema de informação geográfica.                                                         |
+| 09/07/2025 | aula14       | Avaliação         | Avaliação II.                                                                                                                       |
 
 
 ### Ferramentas e Tecnologias
